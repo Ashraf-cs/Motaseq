@@ -18,7 +18,13 @@
 <br>
 
 <h2>Documention</h2>
-
+<h3>Notes before start</h3>
+<ul>
+  <li>Motaseq consider you use one style (CSS) file only for your project.</li><br>
+  <li>Currently, Motaseq does not support component-Level CSS in Next.js and className should to be in `className="..." ` style.</li><br>
+  <li>It is preferred to use automatically restarting tool (like nodemon) if your project does not support that to see the changes immediatley. React and Next.js support this feature by default.</li><br>
+</ul>
+<br>
 <h3>Installing</h3>
 <ol>
   <li>Clone repository</li><br>
