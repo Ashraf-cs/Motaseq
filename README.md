@@ -16,7 +16,7 @@
   <li>Support web pages built using regular HTML files, React (JSX) or Next.js</li><br>
 </ul>
 <br>
-<h2>Documentation</h2>
+<h2>Documentation v0.1.x</h2>
 <h3>Notes before start</h3>
 <ul>
   <li>Motaseq consider you use <b>one</b> style (CSS) file only for your project.</li><br>
