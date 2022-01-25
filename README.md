@@ -25,7 +25,7 @@
   <li><code>npm install</code></li><br>
   <li><code>npm run build</code></li><br>
 </ol>
-Then <code>npm start</code> to run the tool.
+To run the tool type <code>npm start</code> and go to <code>localhost:6500</code>.
 <br>
 
 <h3>How to use it</h3>
