@@ -15,8 +15,20 @@
   <li>Your styles will be saved immediatley</li><br>
   <li>Support web pages built with regular HTML files, React (JSX) and Next.js</li><br>
 </ul>
+<br>
 
-<h2>How to use it</h2>
+<h2>Documention</h2>
+
+<h3>Installing</h3>
+<ol>
+  <li>Clone repository</li><br>
+  <li><code>npm install</code></li><br>
+  <li><code>npm run build</code></li><br>
+</ol>
+Then <code>npm start</code> to run the tool.
+<br>
+
+<h3>How to use it</h3>
 <ol>
   <li>Choose your project development method</li><br>
   <li>Enter port number of project server</li><br>
